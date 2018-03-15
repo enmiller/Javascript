@@ -1,0 +1,31 @@
+.main-container {
+    background-color: lightblue;
+    width: 100%;
+}
+
+.canvas-container {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.controls-main-container {
+    position: static;
+    float: left;
+    width: 50%;
+}
+
+.info-container {
+    position: static;
+    float: right;
+    width: 50%;
+}
+
+.controls-container {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#cycle-info-container {
+    padding-left: 20px;
+}
